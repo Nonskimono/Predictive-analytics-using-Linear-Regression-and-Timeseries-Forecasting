@@ -8,6 +8,7 @@ This project involved using different predictive models to predict the number of
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
+- <b>SQL</b>
 
 <h2>Environments Used </h2>
 
